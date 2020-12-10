@@ -1,0 +1,21 @@
+// Place all the styles related to the texts controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 30px;
+}
+
+div, p {
+  margin: 30px 0 30px 70px;
+}
+
+span {
+  font-weight:bold;
+}
